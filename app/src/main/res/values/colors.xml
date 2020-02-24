@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="white">#FFF</color>
+    <color name="white_modify">#A8A8A8</color>
+    <color name="black_modify">#1F1F1F</color>
+
+    <!--Color for splashScreen-->
+    <color name="splashscreen">#0C152B</color>
+    <!--Color for splashScreen-->
+
+
+    <!--Color for intro page-->
+    <color name="intro_shop">#FE52A2</color>
+    <color name="intro_cart">#1689FC</color>
+    <color name="intro_truck">#18A7FC</color>
+    <!--Color for intro page-->
+
+    <!--Button Gradient Color-->
+    <color name="sign_in_button_start_color">#836FED</color>
+    <color name="sign_in_button_end_color">#36C0D1</color>
+    <!--Button Gradient Color-->
+
+    <color name="black_edittext">#1F1F1F</color>
+
+</resources>
